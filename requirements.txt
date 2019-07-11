@@ -1,5 +1,5 @@
 requests
-Django==1.11.20
+Django==1.11.22
 django-allauth==0.38
 django-bootstrap3==9.1.0
 django-categories==1.6
